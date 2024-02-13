@@ -53,7 +53,7 @@ function generateMessage(noCount) {
     "Don't do this to me :(",
     "You're breaking my heart",
     "Ok, I'll stop asking",
-    "Just kidding, please say YES!"
+    "Just kidding, please say YES!",
     "I'm gonna cry...",
   ];
 
